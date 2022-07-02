@@ -1,1 +1,1 @@
-# Machine-Learning-ve-Python--A-dan-Z-ye-Makine---renmesi
+# Machine-Learning-ve-Python--A-dan-Z-ye-Makine---örenmesi
